@@ -3,11 +3,33 @@ html {
 }
 
 h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 32px;
   color: #cdc63c;
   text-align: center;
 }
 
 h2 {
+  line-height: 0px;
+  text-decoration: overline;
+  font-size: 25px;
   color: #cdc63c;
   text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  color: #cdc63c;
+}
+
+p {
+  font-weight: bold;
+  font-size: 13px;
+  color: white;
+  font-style: oblique;
+}
+
+
+b {
+  color: #cdc63c;
 }
